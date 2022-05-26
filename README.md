@@ -1,4 +1,4 @@
-# GraficoCovid
+# Grafico Covid
 Gráficos de dados sobre Covid-19 no mundo<br/><br/>
 <a href="http://projetos.raphaelsatomi.com/covid/">Link do Projeto</a>
 --- 
